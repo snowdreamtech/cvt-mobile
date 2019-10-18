@@ -28,3 +28,7 @@ cd cordova
 cordova prepare
 cordova build browser
 ```
+
+## Preview
+
+![预览](preview.png)
