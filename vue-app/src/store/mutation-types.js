@@ -1,0 +1,2 @@
+export const SET_WIFI_STATUS = 'SET_WIFI_STATUS'
+export const SET_WIFI_NAME = 'SET_WIFI_NAME'
