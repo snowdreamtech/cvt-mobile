@@ -21,8 +21,6 @@ release/
 
 # Gradle files
 .gradle/
-build/
-build
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -317,10 +315,8 @@ $RECYCLE.BIN/
 # Log Files
 
 # Android Studio
-/*/build/
 /*/local.properties
 /*/out
-/*/*/build
 /*/*/production
 *.swp
 
